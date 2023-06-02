@@ -1,5 +1,5 @@
 ## Correct Twice at Once: Learning to Correct Noisy Labels for Robust Deep Learning
-Under review at conference MM 2022.
+Published at conference ACM MM 2022.
 
 ### Introduction
 This is a PyTorch implementation of ["Correct Twice at Once: Learning to Correct Noisy Labels for Robust Deep Learning"]. 
